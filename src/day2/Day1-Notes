@@ -1,0 +1,13 @@
+    Variables: They are meant to store value.
+
+    1. dataType variableName=value;
+
+    DataTypes:
+       1. Primitive Data Type
+       a) You don't need any object to be able to use them
+       b) Primitive data types occupy pre-defined fixed memory spaces
+          byte, short, int, long, float, double, char, boolean
+
+
+
+       2. Non-Primitive Data Types
