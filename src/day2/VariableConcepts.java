@@ -11,13 +11,14 @@ public class VariableConcepts
         // a) byte [-128 to +127][1 byte=8 bits]
         // 1 byte = 8 bits
         byte num1=127;
+        System.out.println(num1);
 
         System.out.println(Byte.MIN_VALUE);
         System.out.println(Byte.MAX_VALUE);
 
         // b) short [-32768 to 32767][2 bytes =16 bits]
         short num2=32767;
-
+        System.out.println(num2);
         short num3=100;
 
         int total =num1+num2; // byte & short
@@ -62,6 +63,19 @@ public class VariableConcepts
         double d1=12.33333888;
 
        double decimalTotal= f1+d1;
+
+       // char [a-z,A-Z, 1-9, !-+][2 Bytes =16 bits]
+        char c1 ='a';
+        System.out.println(c1); //a
+        char c11= 'z';
+        System.out.println(c11); //z
+        char c2 = '1'; // 1-9
+        System.out.println(c2);
+        char c3 ='A'; // A-Z
+        System.out.println(c3);
+        char c4 = '$';
+        System.out.println(c4);
+
 
 
 
