@@ -1,0 +1,44 @@
+Statements: For making decisions
+-if Statement
+ Syntax:
+        if(condition)
+        {
+           //This will execute only if condition is true
+        }
+
+ -if else statement
+         if(condition)
+         {
+            //This will execute only if condition is true
+         }
+         else
+         {
+            //This will execute only if condition is false
+         }
+
+ In multiple if-else statement, if the last statement fails, else will also be executed
+
+ - if else if statement
+   if(condition)
+   {
+           //This will execute only if condition is true
+   }
+   else if(condition2)
+   {
+        //This will execute only if condition is true
+   }
+   else if(condition3)
+      {
+           //This will execute only if condition is true
+      }
+      else if(conditionN)
+            {
+                 //This will execute only if condition is true
+            }
+      else
+      {
+            //This will execute only if condition is false
+      }
+
+      // Switch will work with all  data types except [long, boolean]
+      // Switch supports OR operator and not AND operator
