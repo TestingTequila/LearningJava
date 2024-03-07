@@ -39,3 +39,6 @@ Statements: For making decisions
       {
             //This will execute only if condition is false
       }
+
+      // Switch will work with all  data types except [long, boolean]
+      // Switch supports OR operator and not AND operator
