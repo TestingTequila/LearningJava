@@ -2,7 +2,16 @@ package day12;
 
 public class ForLoopsConcepts
 {
+      int Integer = 24;
+      char String = 'I';
+
+
     public static void main(String[] args) {
+
+        ForLoopsConcepts flc = new ForLoopsConcepts();
+
+        System.out.print(flc.Integer);
+        System.out.print(flc.String);
 
         // I want to print "Hello World" 10 times
 
@@ -76,11 +85,16 @@ public class ForLoopsConcepts
 
 
         // a -z
-        char c ='a';
-        while(c<='z')
-        {
-            System.out.println((int)c + ":" + c);
-            c++;
-        }
+//        char c ='a';
+//        while(c<='z')
+//        {
+//            System.out.println((int)c + ":" + c);
+//            c++;
+//        }
+
+//        int Integer = 24;
+//        char String = 'I';
+//        System.out.print(Integer);
+//        System.out.print(String);
     }
 }

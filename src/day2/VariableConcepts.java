@@ -77,6 +77,14 @@ public class VariableConcepts
         System.out.println(c4);
 
 
+        //dataType variableName;
+        //variableName=value;
+
+        int x1;
+        x1=55;
+
+        String fruit;
+        fruit="Mango";
 
 
 

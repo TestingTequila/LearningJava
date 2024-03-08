@@ -1,0 +1,16 @@
+ARRAYS:
+- To store similar items or group of items
+- Whenever you have group of similar items and you wish to store them, we should prefer Arrays
+Syntax:
+   1. dataType[] arrayName = {value1, value2, value3.................valueN};
+
+   2. dataType[] arrayName = new dataType[countOfItemsYouWantToStore];
+
+- Arrays and loops go together. To store multiple values, we prefer arrays and to perform operations over multiple values we use loops
+- Just to print values in an array: System.out.println(Arrays.toString(NameOfArray));
+
+-Limitation:
+ Arrays can hold only fix values
+ Arrays are not dynamic enough
+
+ ---> Collections

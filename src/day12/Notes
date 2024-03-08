@@ -29,6 +29,10 @@ Types of Loops:
    //1. for loops
 
 3. advanced for loop
+   for(dataTypeOfGroup aliasName : NameOfGroup)
+   {
+      Action you want to perform
+   }
 ======================================================
 1
 2
