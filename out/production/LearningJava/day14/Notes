@@ -1,0 +1,37 @@
+Class and Objects:
+- What is a class: A class is a Template
+- What is an Object: Copies of the class
+
+-Select the Sheet/image/folder you want to copy by clicking on it
+-Do right click and select the Copy option
+-IDENTIFY THE PLACE WHERE YOU WANT TO CREATE THE COPY
+-Right click on the place and Select Paste option
+-Now again select the pasted Sheet/image/folder and do right click
+-Select the rename option and change the name of Sheet/image/folder as per your needs
+
+Syntax:
+NameOfTheClassWhoseObjectYouWantToCreate nameYouWantToGiveToYourObject = new NameOfTheClassWhoseObjectYouWantToCreate();
+
+Class ---> Company
+Company apple = new Company();
+Company microsoft = new Company();
+
+Class ---> Abacus
+Abacus slate = new Abacus();
+
+Class ---> LivingBeings
+LivingBeings human = new LivingBeings();
+LivingBeings plants = new LivingBeings();
+LivingBeings animals =new LivingBeings();
+
+===========================MEMORY MANAGEMENT==========================================
+-Memory is divided into 2 sections
+  -HEAP  : Stores the object
+  -STACK : Stores the reference variables of the objects
+
+
+
+
+
+
+
