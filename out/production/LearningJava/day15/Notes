@@ -1,0 +1,20 @@
+-Methods
+  A class consists of variables and methods
+  -Can a class have just the variables - Yes
+  -Can a class have only the methods ?
+
+  -Methods: Action performed over the variables of the class.
+          : Everytime you wish to perform some action and in order to do so you need the help of variables of the class- You have to create method
+
+  Syntax:
+        accessModifier[public/private] returnType[void/dataTypes] methodName(can/t parameters)
+        {
+            Action over the class variables
+        }
+
+  ------------------------------------------------------------
+  Make Tea: [Method]
+   -Milk Powder
+   -Sugar
+   -Tea Leaves
+   -Water
