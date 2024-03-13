@@ -1,0 +1,5 @@
+ReturnType:
+-Use something else in a method instead of void
+-Use return keyword at the end of the program
+-it should return you something which has same return type as the method
+-If we feel the result of a method can be used to perform some further calculations or manipulations, we should use return type in methods
