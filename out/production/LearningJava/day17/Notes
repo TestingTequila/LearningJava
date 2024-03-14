@@ -1,0 +1,40 @@
+OOPs Concept:
+
+1- Encapsulation
+   -Data Hiding
+
+2- Polymorphism [Many + Forms]
+   -method overloading
+   -method overriding
+
+3- Inheritance
+    -Abstraction
+    -Interface
+
+    ====================================================================
+    -It provides your data safety
+    -It will make your code less vulnerable
+    -We can make our code reusable
+    -We can define abstraction and interface
+
+-Method Overloading
+ -We cannot have two or more methods within the same class - if the parameters are same
+ -How can we make parameters different:
+  a) Either by changing the data type of parameters
+  b) By Changing the order of parameters
+  c) BY changing the count of parameters
+ -We also call method overloading as Compile time polymorphism / static polymorphism
+
+
+  A----------------CAR------------------->B
+  i) Either by following the traffic rules
+     He will reach the destination safely
+
+  ii) Either by not following the traffic rules
+      -He might caught by traffic police
+      -He might be fined
+      -He might be both caught and fined
+      -He might get into some accident
+      -He might cause traffic congestion
+      -He might hurt some travellers
+      -He might reach his destination without any of the above incidents occurring

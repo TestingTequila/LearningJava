@@ -6,13 +6,11 @@ public class SalaryCalculation
     //1. Calculate the salary of every employee
     //2. We have to add bonus to the salary
 
-
-
-
     public double calculateSalary(double basicSalary,double travelAllowance )
     {
         double empSalary=basicSalary + travelAllowance;
         System.out.println(empSalary);
         return empSalary;
     }
+
 }
