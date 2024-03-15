@@ -41,7 +41,16 @@ OOPs Concept:
 
       // static keyword:
          -If common property VALUE is same for all the objects, make that property static
+         -static variables and methods are part of special memory called CMA[Common Memory Allocation]/Permanent Generation/Metaspace
          -We should not call static variables/methods using object reference variables as static does not belong
           to objects
-         - static variables and methods resides in CMA/Metaspace
          -We can call Static variables/methods only through Name of the class to which it belongs
+
+         -Internal method calling of non-static methods : Since non-static methods or variables are part of the same object, we can call then directly even though calling by object reference variable is also possible
+         -Internal method calling of static method: Since static methods are part same memory[CMA], we can call these methods among each other directly or also through className
+         -Static method calling non-static method : We access non-static methods/variables inside static method through objects reference only
+         -Non-Static method, calling static method: We can call static method within non-static method using className
+         -Local variables cannot be static as they cannot be called using className as they are within the method
+
+
+

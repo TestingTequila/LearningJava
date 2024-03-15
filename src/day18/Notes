@@ -1,0 +1,7 @@
+-Constructor
+ -Its like a special method
+ Its special because:
+   name of method is same as name of class
+   unlike method this will not have return type
+   unlike method we don't have to call the constructors, this is called automatically the moment we create object of the class
+
