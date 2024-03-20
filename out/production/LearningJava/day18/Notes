@@ -10,3 +10,9 @@
  Object and pass the value as per the constructor to be called.
 
  -Constructors also act as value setters of the class properties[global variables]
+
+ Constructor Vs Methods
+ Constructors: Construct the values at the time of object creation
+ Methods:      For applying logic over the constructed values
+
+ Private Constructors: We create private constructors if all the variables and methods of the class is static.

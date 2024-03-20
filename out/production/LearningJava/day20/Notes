@@ -1,0 +1,17 @@
+Encapsulation:
+private variable ---> To set: setter methods[can set one value at a time], To get: getter methods
+private variable ---> To set: Constructors[Can set multiple values at a time], To get get: getter methods
+private variable ---> To set: Constructors[Can set multiple values at a time], Update the values of private variables: Setter Methods, To get get: getter methods
+
+private methods within public method --> Encapsulation
+
+Constructors are primarily used for initializing object attributes when the object is created,
+while setter methods are used to modify variables values after the object has been instantiated.
+
+API: Constructor ---> SET
+     Setter      ---> UPDATE
+
+     ==============================================================================
+     USAGES OF THIS KEYWORD:
+     1. To differentiate between global variables and parameters name, if they are same
+     2. BUILDER PATTERN

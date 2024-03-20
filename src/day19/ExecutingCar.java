@@ -16,5 +16,8 @@ public class ExecutingCar
         System.out.println(c2.price); // 0
         System.out.println(c2.isAutomatic); //false
 
+
+
+
     }
 }
