@@ -18,6 +18,10 @@ public class Company
         return empCount;
     }
 
+    public void getEmpCount(int a) {
+
+    }
+
     public int getSharePrice() {
         return sharePrice;
     }

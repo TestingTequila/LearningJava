@@ -12,6 +12,14 @@ API: Constructor ---> SET
      Setter      ---> UPDATE
 
      ==============================================================================
-     USAGES OF THIS KEYWORD:
-     1. To differentiate between global variables and parameters name, if they are same
+     USAGES OF 'this' KEYWORD:
+     1. To differentiate between global variables and parameters name, if they are same, to call the global variable we use this keyword
      2. BUILDER PATTERN
+     3. To call one  method inside of other method within same class
+     4. To call one constructor inside of other Constructor [Note: Constructor calling has to be the first line of code inside other constructor]
+
+     Call by Value and Call by Reference
+     Call by Value: calling the methods by passing the value/s [arguments]
+     CAll by Reference: calling the methods by passing the objects reference variable
+                        This has an advantage of modifying the same object, using different objects reference variable/s
+

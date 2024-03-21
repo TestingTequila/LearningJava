@@ -1,0 +1,5 @@
+-A normal class can have only and only Concrete methods
+-Abstract class can have both abstract and concrete methods
+ It can have just the concrete methods as well but in this case, it means that if you need you can also
+ create abstract method inside of it.
+ We cannot create object of an abstract class
