@@ -3,3 +3,5 @@
  It can have just the concrete methods as well but in this case, it means that if you need you can also
  create abstract method inside of it.
  We cannot create object of an abstract class
+
+ -Interface:
