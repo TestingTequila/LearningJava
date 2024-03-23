@@ -1,1 +1,17 @@
+-Method Overriding: This can be established only with different classes having parent-child relationship
+                  : This is also known as run time polymorphism
+
+TOP CASTING and DOWN CASTING
 - A class cannot have more than one parent class/ Multiple inheritance is not allowed through classes in Java[Diamond Problem]
+- Down casting is not possible in Java. If we forcefully typecast a parent class into child class, at compile this
+  will work but at runtime this action will throw ClassCastException
+- method with final keyword cannot be overridden
+- To stop inheritance of a class or to stop class from becoming parent of any other class, make the class final
+- method with static keyword can be inherited but cannot be overridden
+- method hiding is having same static method in both parent and child class and these methods are completely independent of each other.
+- We can override and overloaded method [Yes]
+- We can overload an overridden method as well [Yes]
+- Override an overloaded static method [No]
+- Overload an overridden static method [No]
+- We can override from parents and grandParent as well.
+-Multiple inheritance[Class with more than one parent] is not possible in Java among classes

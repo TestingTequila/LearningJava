@@ -1,4 +1,4 @@
-package day22.Inheritance;
+package day23;
 
 public class Car extends Vehicle
 {
@@ -34,4 +34,6 @@ public class Car extends Vehicle
     {
         System.out.println("Car------refuel");
     }
+
+
 }

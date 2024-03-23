@@ -1,4 +1,4 @@
-package day22.Inheritance;
+package day23;
 
 public class Test
 {
@@ -43,6 +43,8 @@ public class Test
         car2.electricFuel();
         Car.stop();
 
+        Vehicle vhh = new Car();
+        vhh.testingFinalInheritance();
 
     }
 }

@@ -1,4 +1,4 @@
-package day22.Inheritance;
+package day23;
 
 public class BMW extends Car
 {

@@ -1,4 +1,4 @@
-package day22.Inheritance;
+package day23;
 
 public class Vehicle
 {
@@ -20,5 +20,11 @@ public class Vehicle
     public static void  stop( int a)
     {
         System.out.println("Vehicle------Stop" + a);
+    }
+
+
+    public  final  void testingFinalInheritance()
+    {
+        System.out.println("testingFinalInheritance");
     }
 }
