@@ -1,0 +1,2 @@
+A class cannot have more than one class as its parent means in Java, multiple inheritance through Classes is not possible
+A class can have more than one interface as its parent, means in Java multiple inheritance though interfaces is possible
