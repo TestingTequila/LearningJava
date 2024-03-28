@@ -1,2 +1,6 @@
 A class cannot have more than one class as its parent means in Java, multiple inheritance through Classes is not possible
 A class can have more than one interface as its parent, means in Java multiple inheritance though interfaces is possible
+A class can never be parent of an Interface
+
+Q: Can we create object of an interface -- No
+Q: Can an interface have a constructor  -- No

@@ -1,0 +1,11 @@
+-abstract method cannot be final
+-abstract method cannot be static
+-abstract method cannot be private
+-Concrete static method is allowed inside an interface
+-Static method of a class can be inherited but static method of an Interface cannot be inherited
+-Static method, be it class or interface can never be overridden
+-Static methods in an interface cannot be final whereas variables in an interface is final by default
+-static method cannot be abstract
+-We cannot create object of an Abstract class
+-We can create constructor in an Abstract class
+-If you create parametrized constructor in a child class, parent class will not be happy about it- because only non-parametrized constructor of child class can call non-parametrized constructor of parent class
