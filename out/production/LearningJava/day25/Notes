@@ -8,3 +8,4 @@
 -static method cannot be abstract
 -We cannot create object of an Abstract class
 -We can create constructor in an Abstract class
+-If you create parametrized constructor in a child class, parent class will not be happy about it- because only non-parametrized constructor of child class can call non-parametrized constructor of parent class
