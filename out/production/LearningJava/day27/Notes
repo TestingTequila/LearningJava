@@ -1,0 +1,4 @@
+-Child class constructor can call Parent class DEFAULT CONSTRUCTOR ONLY
+-If Parent class does not have default constructor but has other Parametrized constructor, JVM will not like this and throw error
+-Interface cannot have constructors as we cannot create object of an Interface
+

@@ -1,0 +1,5 @@
+-Child class constructor can call Parent class DEFAULT CONSTRUCTOR ONLY
+-If Parent class does not have default constructor but has other Parametrized constructor, JVM will not like this and throw error
+-Interface cannot have constructors as we cannot create object of an Interface
+-Non-Parametrized constructor of Parent class can not be called thorough the constructor of Child class and can be called only through special keyword - super
+-So, in P-C relationship, Parent class must have default constructor created if Parent class has any other constructor apart from Default.
