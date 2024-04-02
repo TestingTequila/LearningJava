@@ -1,0 +1,6 @@
+Stack Memory
+  -Its maintains Reference variables
+  -It also maintains the execution sequence
+
+  -StackOverflow error: StackOverflowError indicates that the application stack is exhausted
+   and is usually caused by deep or infinite recursion.
