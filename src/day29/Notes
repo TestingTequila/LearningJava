@@ -1,0 +1,21 @@
+Ways to create String
+
+//1.String Literals
+String str = "Selenium";
+
+//2. new keyword
+String str = new String("Selenium");
+
+String is always stored in a special section of Heap Memory called String Constant Pool[SCP]
+SCP cannot hold duplicate values
+==> If a string is created using string literals, both == & equals give the same result
+
+== compares the memory address of the objects[== compares the objects]
+equals() This compares the value of the objects
+
+String immutability [that cannot be changed]
+
+If you  know string might have to be changed ....you should avoid creating String class to create String.
+In such cases, Java has provided us with additional Classes:
+-StringBuffer
+-StringBuilder

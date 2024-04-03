@@ -12,27 +12,6 @@ public class StringManipulation
       System.out.println("AFTER SPLIT: "+myWord.length);
       System.out.println(Arrays.toString(myWord));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       System.out.println(str.length());
       int li =0;
       int hi = str.length()-1;
