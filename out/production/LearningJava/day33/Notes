@@ -1,0 +1,8 @@
+1- Used for adding variables values
+2- Can be generic or non-generic
+3- Its an ordered execution
+4- Can add duplicate
+
+HashSet:
+Cannot hold duplicate values
+Values are not added in an ordered way
