@@ -1,13 +1,12 @@
 package day9;
 
-public class DataTypeConcept
-{
+public class DataTypeConcept {
     public static void main(String[] args) {
 
         //10, 15
-        byte x =120;
-        byte y=100;
-        int sum =x+y;
+        byte x = 120;
+        byte y = 100;
+        int sum = x + y;
         //Byte, short data type are not meant for mathematical calculations
 //        System.out.println(x);
 //        System.out.println(Byte.MIN_VALUE);
@@ -47,9 +46,28 @@ public class DataTypeConcept
 //        int total =i+c3;
 //        System.out.println(total);
 
-        System.out.println((int)c3);
+//        System.out.println((int) c3);
+        char u1 = 'a'; //97
+        char u2 = 'b'; //98
+//        System.out.println((int)u1+(int)u2);
+//        System.out.println(u1+0);
+//        System.out.println(u1+'0');
+//        System.out.println((int)u1+"0");
+
+//        System.out.println((int)u1);
+//        System.out.println((int)u2);
+          char u11 = 'a';
+        System.out.println((int)u11);//97
+
+        int u22 = 97;
+        System.out.println((char)u22);//a
 
 
+//byte, short, int, long, float, double, char, boolean
+
+     //boolean ~1bit // true, false
+        boolean flag = false;
+        System.out.println(flag);
 
     }
 }

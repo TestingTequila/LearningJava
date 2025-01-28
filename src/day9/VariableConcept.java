@@ -1,7 +1,12 @@
 package day9;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class VariableConcept {
     public static void main(String[] args) {
+
 
         //1. Variables
         //a) dataType variableName = value;
@@ -21,6 +26,7 @@ public class VariableConcept {
 
     }
 }
+
 
 
 
