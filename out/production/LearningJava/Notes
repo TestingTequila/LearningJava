@@ -1,0 +1,18 @@
+1: Variables: This is used to store anything
+   How variables are created:
+     -dataType variableName =value;
+
+     -Data Type: Primitive Data Types [Know in advance how much memory will be consumed, We don't need object to use them]
+        -byte [1 Byte = 8 bits][-128 to 127]
+        -short
+        -int
+        -long
+        ---------
+        -float
+        -double
+        -char
+        -boolean
+
+        Non-Primitive Data Type: [Don't Know in advance how much memory will be consumed, We need object to use them]
+           -Strings
+           -Arrays
