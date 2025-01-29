@@ -16,3 +16,27 @@
         Non-Primitive Data Type: [Don't Know in advance how much memory will be consumed, We need object to use them]
            -Strings
            -Arrays
+
+           PostIncrement/DecrementOperator: AssignAndThenIncrement/Decrement
+           Ex: int a=10;
+               int b = a++;
+                So here at line number 22, first we will assign the value of a to b, and then we will increase the value of
+                a by 1
+
+                        int j = a++; //Post Increment [Assign and Increment] [denge aur for apna bhav badhayenge]
+                        int t = ++a; //Pre  Increment [Increment and Assign] [pehle bhav badhayenge aur fir denge]
+
+                        Statements: Decision making
+                           -if statement
+                           -multiple if statement
+                           -if else statement
+                           -if else if statement
+                           -switch statement
+
+                           ======================================
+     if(condition)
+     {
+          agar condition true hai tabhi bracket k ander ka code execute hoga
+     }
+
+
