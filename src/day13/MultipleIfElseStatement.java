@@ -1,9 +1,9 @@
-package day12;
+package day13;
 
-public class MultipleIfStatement
+public class MultipleIfElseStatement
 {
     public static void main(String[] args) {
-        int marks =55;
+        int marks =50;
         if(marks>=90)
         {
             System.out.println("Student has score grade A");
@@ -20,9 +20,9 @@ public class MultipleIfStatement
         {
             System.out.println("Student has score grade D");
         }
-        if(marks<60)
+        else
         {
-            System.out.println("Student has not cleared the exam");
+            System.out.println("The student is not Selected as marks is below 60");
         }
     }
 }

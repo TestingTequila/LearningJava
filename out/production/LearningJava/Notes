@@ -33,10 +33,78 @@
                            -if else if statement
                            -switch statement
 
-                           ======================================
+                           ================if=======X===============
      if(condition)
      {
           agar condition true hai tabhi bracket k ander ka code execute hoga
      }
 
+                           =================if else===================
+          if(condition)
+          {
+               agar condition true hai tabhi bracket k ander ka code execute hoga
+          }
+          else
+          {
+                  agar condition false hai tabhi bracket k ander ka code execute hoga
+          }
 
+                                     =================Multiple if else=========X==========
+                    if(condition)
+                    {
+                         agar condition true hai tabhi bracket k ander ka code execute hoga
+                    }
+                    else
+                    {
+                            agar condition false hai tabhi bracket k ander ka code execute hoga
+                    }
+
+           Multiple if-else statement   : false false false false else -- E
+           Multiple if-else statement   : false false true false else  -- T, E
+           Multiple if-else if statement: false false true false else  -- T
+
+           ====================if else if ==============================
+            if(condition)
+                                {
+                                     agar condition true hai tabhi bracket k ander ka code execute hoga
+                                }
+                                else if(condition 2)
+                                {
+                                     gar condition true hai tabhi bracket k ander ka code execute hoga
+                                }
+                                                                else if(condition 3)
+                                                                {
+                                                                     gar condition true hai tabhi bracket k ander ka code execute hoga
+                                                                }
+                                else
+                                {
+                                        agar condition false hai tabhi bracket k ander ka code execute hoga
+                                }
+
+
+
+--if else
+- if else if
+                                     ==============Switch ============================
+                                     switch()
+                                     {
+                                         case condition1:
+                                              karna kya hai
+                                              break;
+                                         case condition2:
+                                              karna kya hai
+                                              break;
+                                         case condition2:
+                                              karna kya hai
+                                              break;
+                                         default:
+                                              karna kya hai
+                                              break;
+
+                                     }
+
+
+                                     --if else    -- sirf ek condition he verify karna hai
+                                     - if else if -- multiple conditions verify karna
+                                     - switch     -- multiple conditions verify karna, fast verify karna hai aur exact value verify karna hai
+                                                     long data type k liye nhi chalega
