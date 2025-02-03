@@ -127,6 +127,10 @@
       }
 
   -advanced for loop [for each loop]
+  for(dataType randomName: nameOfArray)
+  {
+      action
+  }
 
 
   int i =1;
@@ -142,4 +146,11 @@
   2*8 = 16
   2*9 = 18
   2*10 =20
+
+  =============================
+  Variable ---> dataType name=value;
+  Arrays   ---> dataType[] name={value1, value2, value3....valueN};
+           ---> dataType[] name = new dataType[LengthOfValuesToStore];
+  li=0
+  hi=length-1
 
