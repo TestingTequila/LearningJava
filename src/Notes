@@ -153,4 +153,11 @@
            ---> dataType[] name = new dataType[LengthOfValuesToStore];
   li=0
   hi=length-1
+================================================================================
+What is a Class?
+   -A class is a like template
+What is Object?
+   -Every copy of the template is called its object
 
+class ABC ---> Object(copy) ---> Syntax:
+  --> ClassName nameOfCopy = new ClassName();
