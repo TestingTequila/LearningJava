@@ -161,3 +161,30 @@ What is Object?
 
 class ABC ---> Object(copy) ---> Syntax:
   --> ClassName nameOfCopy = new ClassName();
+===================Methods==========================
+1. Methods are action performed over class variables
+
+accessModifier returnType methodName(can/t parameters)
+{
+   Action performed over variables
+}
+
+
+accessModifier[public,private,protected] returnType[void/dataTypes] methodName(can/t parameters)
+{
+   Action performed over variables
+}
+
+accessModifier returnType makingTea(sugar, tea Leaves, water, MilkPowder)
+{
+   tea =water+MilkPoder+TealLeaves+sugar;
+}
+
+=========================================
+
+PrabhuRam --- class name ----> PrabhuRam ram = new PrabhuRam();
+
+Abacus    --- class name ---->  Abacus a=new Abacus();
+
+Elephant  ---  class name---->   Elephant baby= new Elephant();
+
