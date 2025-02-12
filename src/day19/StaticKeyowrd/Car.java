@@ -10,12 +10,28 @@ public class Car
     public void start()
     {
         System.out.println("Car ---start");
+
+    }
+    public void stop()
+    {
+         int x =20;
+        System.out.println("Car ---stop");
+        Car.speedTest();
+
     }
 
     public static void speedTest()
     {
         System.out.println("Car----speedTest");
+        Car c1 = new Car();
+        c1.start();
+
     }
+    public static void engineTest()
+    {
+        System.out.println("Car----engineTest");
+    }
+
 }
 
 
