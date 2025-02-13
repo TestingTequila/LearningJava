@@ -1,0 +1,12 @@
+1. Variable + Method ---> within class
+2. Variable -----> Private
+3. not accessible in other
+4. To make it accessible ---> create setter and getter method to assign value to private variable
+5. Now we can apply rules over variable with the help of getter methods
+
+1. private variable: setter/getter
+2. private variable: constructor/getter
+3. private variable: constructor/getter/setter
+
+4. private methods encapsulated within public methods
+
