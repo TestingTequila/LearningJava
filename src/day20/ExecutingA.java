@@ -6,7 +6,7 @@ public class ExecutingA {
         System.out.println(a1.x);
         System.out.println(a1.s);
         System.out.println(a1.b1);
-        a1.m1(); //Calling m1 method
+        a1.m1(); //Calling m1 method for the fetch command Testing
     }
 }
 
