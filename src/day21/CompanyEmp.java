@@ -25,9 +25,6 @@ public class CompanyEmp {
         String empName = null;
         if (getEmpName().equals("Kerrie") || getEmpName().equals("Jason")) {
             empName = getEmpName();
-        } else {
-            return empName;
-
         }
         return empName;
     }
@@ -37,8 +34,6 @@ public class CompanyEmp {
         if (getSalary() > 1000 && getSalary() < 10000) {
             empSalary = getSalary();
 
-        } else {
-            return empSalary;
         }
         return empSalary;
     }
