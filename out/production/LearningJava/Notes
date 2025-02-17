@@ -188,3 +188,11 @@ Abacus    --- class name ---->  Abacus a=new Abacus();
 
 Elephant  ---  class name---->   Elephant baby= new Elephant();
 
+==========================================
+
+1. Global(this) and parameter differentiate
+2. Builder Patter--> return type is class name and this will return the same object
+3. Calling one constructor within other constructor
+4. this keyword can be used to call non-static methods but not static methods as static is not part of object
+
+
