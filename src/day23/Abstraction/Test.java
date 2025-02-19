@@ -30,5 +30,6 @@ public class Test {
         d.subtraction(12, 4);
         d.multiplication(12, 4);
         d.division(12, 4);
+        //Base base = new Base(); We cannot create object of an Abstract Class
     }
 }
