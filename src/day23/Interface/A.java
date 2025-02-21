@@ -5,7 +5,7 @@ public class A implements Base
 
     @Override
     public void addition(int a, int b) {
-        int sum = a+b;
+        int sum = a+b; //12+4
         System.out.println("A Addition:" + sum);
     }
 

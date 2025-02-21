@@ -4,7 +4,7 @@ public class B implements Base {
 
     @Override
     public void addition(int a, int b) {
-        int sum = 2 * a + b;
+        int sum = 2 * a + b; //2*12+4
         System.out.println("A Addition:" + sum);
     }
 

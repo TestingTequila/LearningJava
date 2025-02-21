@@ -4,7 +4,7 @@ public class C implements Base
 {
     @Override
     public void addition(int a, int b) {
-        int sum = 3*a+b;
+        int sum = 3*a+b; //3*12+4
         System.out.println("A Addition:" + sum);
     }
 

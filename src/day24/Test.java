@@ -20,6 +20,9 @@ public class Test {
         car.refuel();
         car.billing();
         car.engine(); //BMW engine
+        car.justFinal();
+        BMW.staticFinal();
+
 
         Vehicle vehicle= new Car();
         vehicle.engine(); //CAr engine

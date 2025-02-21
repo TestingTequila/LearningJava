@@ -23,9 +23,14 @@ public class Car extends  Vehicle
         System.out.println("Car---Billing");
     }
 
-    public static final void display()
+    public static final void staticFinal()
     {
         System.out.println("Logo----Display");
+    }
+
+    public final void justFinal()
+    {
+        System.out.println("Car----justFinal");
     }
 
     //1. Override an overloaded method
