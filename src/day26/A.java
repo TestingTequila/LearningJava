@@ -1,4 +1,4 @@
-package Day26;
+package day26;
 
 public abstract class A {
     public abstract void getData();

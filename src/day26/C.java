@@ -1,4 +1,4 @@
-package Day26;
+package day26;
 
 public interface C
 {

@@ -1,6 +1,5 @@
-package Day26.SeleniumArchitecture;
+package day26.SeleniumArchitecture;
 
-import java.sql.Array;
 import java.util.Arrays;
 
 public class RemoteWebDriver implements WebDriver {

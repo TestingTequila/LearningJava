@@ -1,4 +1,4 @@
-package Day26.SeleniumArchitecture;
+package day26.SeleniumArchitecture;
 
 public interface SearchContext {
     public void findElement(String element);

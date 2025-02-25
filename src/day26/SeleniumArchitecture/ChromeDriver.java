@@ -1,4 +1,4 @@
-package Day26.SeleniumArchitecture;
+package day26.SeleniumArchitecture;
 
 public class ChromeDriver extends ChromiumDriver
 {

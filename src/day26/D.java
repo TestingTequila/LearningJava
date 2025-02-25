@@ -1,4 +1,4 @@
-package Day26;
+package day26;
 
 public class D implements C {
     int number = 144;

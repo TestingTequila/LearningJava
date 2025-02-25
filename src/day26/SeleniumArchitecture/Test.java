@@ -1,6 +1,4 @@
-package Day26.SeleniumArchitecture;
-
-import day18.BrowserLaunch;
+package day26.SeleniumArchitecture;
 
 public class Test {
     public static void main(String[] args) {

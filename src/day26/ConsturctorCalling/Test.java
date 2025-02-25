@@ -1,4 +1,4 @@
-package Day26.ConsturctorCalling;
+package day26.ConsturctorCalling;
 
 public class Test
 {
