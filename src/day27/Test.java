@@ -7,3 +7,4 @@ public class Test
         smt.m1();
     }
 }
+// This is the code added in test.java file of day27
