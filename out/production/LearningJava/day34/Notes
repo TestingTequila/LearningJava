@@ -1,0 +1,51 @@
+
+Collection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. ArrayList:
+    can add duplicate values
+    addition order is maintained
+
+2. HasSet
+   cannot add duplicate values
+   Order is not maintained
+
+3. LinkedHasSet
+   cannot add duplicate values
+   Order is maintained
+
+4. HashMap
+   cannot add duplicate values
+   Order is not maintained
+   cannot add duplicate values but values are added in K,V pair
+
+5. LinkedHashMap
+   cannot add duplicate values
+   Order is maintained
+   cannot add duplicate values but values are added in K,V pair
